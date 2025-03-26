@@ -22,7 +22,7 @@ dependencies {
 
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:28.2-jre'
-    implementation "io.smallrye:smallrye-fault-tolerance-core:6.3.0" //high
+    implementation "io.smallrye:smallrye-fault-tolerance-core:6.9.0" //high
 //       implementation "org.apache.james.protocols:protocols-imap:3.8.0"
     implementation "com.liferay.portal:release.portal.bom:7.4.3.82" //mid
 }
